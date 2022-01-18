@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Vasitars-Repair-Design/static/css/main.c820fc91.css",
-    "main.js": "/Vasitars-Repair-Design/static/js/main.46f18511.js",
+    "main.js": "/Vasitars-Repair-Design/static/js/main.056a0f84.js",
     "static/js/787.c3a0d58d.chunk.js": "/Vasitars-Repair-Design/static/js/787.c3a0d58d.chunk.js",
     "static/media/vasi.png": "/Vasitars-Repair-Design/static/media/vasi.0404788f7aa71e24ad93.png",
     "static/media/vasitars_logo.png": "/Vasitars-Repair-Design/static/media/vasitars_logo.b12a3cd4070d9794a198.png",
     "index.html": "/Vasitars-Repair-Design/index.html",
     "main.c820fc91.css.map": "/Vasitars-Repair-Design/static/css/main.c820fc91.css.map",
-    "main.46f18511.js.map": "/Vasitars-Repair-Design/static/js/main.46f18511.js.map",
+    "main.056a0f84.js.map": "/Vasitars-Repair-Design/static/js/main.056a0f84.js.map",
     "787.c3a0d58d.chunk.js.map": "/Vasitars-Repair-Design/static/js/787.c3a0d58d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c820fc91.css",
-    "static/js/main.46f18511.js"
+    "static/js/main.056a0f84.js"
   ]
 }
